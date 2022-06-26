@@ -59,7 +59,7 @@ AlfaMCV (Moment Curvature in Reinforced Concrete Beams or Momento Curvatura em V
 The "Calcular" button opens a new window, where the user can inpput data about the physical-geometric characteristics of the structure. The user needs: 
 * Choose between "Seção Retangular" (rectangular section) or "Seção T" (T section);
 * "Altura Total - H (cm)" (total useful height H, cm);
-* "Altura Mesa - Hs (cm)" (flange height);
+* "Altura Mesa - Hs (cm)" (flange thickness);
 * "Largura - B (cm)" (width B, cm); 
 * "Largura - B<sub>w</sub> (cm)" (width B<sub>w</sub>, cm); 
 * "Vão (cm)" (beam length, cm); 
